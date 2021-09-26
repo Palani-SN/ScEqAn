@@ -1,0 +1,10 @@
+============================= test session starts =============================
+platform win32 -- Python 3.7.6, pytest-6.2.5, py-1.10.0, pluggy-1.0.0
+rootdir: F:\GitRepos\ScEqAn
+plugins: reporter-0.5.2, reporter-html1-0.8.2
+collected 3 items
+
+Test_Analysis.py ...                                                     [100%]
+
+------ generated report: F:\GitRepos\ScEqAn\REPORTS\TestCaseResults.html ------
+============================== 3 passed in 0.55s ==============================
