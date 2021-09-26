@@ -1,12 +1,12 @@
 # ScEqAn (Scientific Equation/Expression Analysis)
 
-- Dynamic Expression Analysis for reScEqAnrch on equations and algorithms.
+- Dynamic Expression Analysis for research on equations and algorithms.
 - Used for providing boundary values to any equations to make sure how far the input dependencies have impact on outcomes
 - Altering the x, y multiple times to check individual impact of x & y on f(x, y) is the ultimate goal of ScEqAn.
 - Check out the example code in repo ( https://github.com/Palani-SN/ScEqAn ) for reference.
 
 **Note:** 
-- **Recommended for Educational & ReScEqAnrch purposes only,**
+- **Recommended for Educational & Research purposes only,**
 - **Not Recommended for Verification & Validation (Testing)**
 
 ## Step 1 : Create ScEqAn input scripts in *Input.txt*

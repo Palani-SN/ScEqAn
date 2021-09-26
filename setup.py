@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name="ScEqAn",
-    version="0.0.1",
+    version="0.0.2",
     description="Scientific Equation/Expression Analysis Based On Dynamic Program Analysis",
     py_modules=["ScEqAn/Analysis"],
     package_dir={"": "SRCS"},
